@@ -5,7 +5,7 @@ date: 2024-02-17T13:05:55+05:30
 
 This is my first blog about my experience participating in season of KDE 2024.
 
-![season of kde logo](/sok/season-of-kde.png)
+![season of kde logo](/season-of-kde.png)
 
 Season of KDE is a mentorship program to introduce people to KDE. I came to know about Season of KDE in November of 2023 through a youtube video. I applied and got selected for the translation project along with another mentee Asish Kumar.
 
@@ -18,7 +18,7 @@ In the first phase of my work, I translated half of **merkuro**. The other half 
 I used lokalize as a translation tool. Lokalize provides a intutive and simple UI, with awesome features like translation memory. To setup lokalize, I followed this blog by Raghavendra Kamath: https://raghukamath.com/how-to-translate-krita-to-your-own-language. 
 
 The below diagram outlines the workflow followed for translation.
-![translation workflow](/sok/workflow.png)
+![translation workflow](/workflow.png)
 
 There were a total of 6 files in need of translation with 90% of words residing in merkuro.po file. I translated half of merkuro.po and the other files. 
 
