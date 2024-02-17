@@ -1,14 +1,16 @@
-baseURL = "https://invent.kde.org"
-title = "My Posts"
-theme = "maniss"
+baseURL = "example.com"
+title = "Manis"
+theme = "manis-hugo-theme"
 
+# Copyright notice. Note: You can use HTML tag here
+copyright = "&copy; 2019 Yurizal Susanto"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
 paginate = 10
 
 # Your disqus shortname
-disqusShortname = "AkashKumar7902"
+disqusShortname = ""
 
 # Edit this if you want to translate your blog
 defaultContentLanguage = "en"
@@ -20,7 +22,7 @@ pygmentsUseClasses = true
 [menu]
 	[[menu.main]]
 		name = "Post"
-		url = "/"
+		url = "/post/"
 	
 	[[menu.main]]
 		name = "About"
@@ -37,13 +39,22 @@ pygmentsUseClasses = true
 	
 	# Site meta description
 	description = "Sweet little Hugo's theme for personal website or blog."
+	# Site's Tagline (Subtitle or Keyword)
+	tagline = "Nothing sweeter than this"
 	# If true give attribution to this theme
 	themeAttrib = true
+	# URL to license file, can be outside of your domain
+	licenseURL = "/about/license"
 
 	# Configure which sections for Latest Posts
-	mainSections = ["blog"]
+	mainSections = ["blog", "post"]
 	# Configure which sections for Latest Works
 	workSections = ["work"]
+	
+	# List of sections that support disqus comments
+	disqusSections = [ "blog" ]
+	# List of sections that support utterances comments
+	utterancesSections = [ "blog" ]
 	
 	# Utterances Configuration
 	utterancesRepo = ""
@@ -69,8 +80,9 @@ pygmentsUseClasses = true
 	highlightJsStyle = "ocean"
 
 	# Social Links
-	email = "meakash7902@gmail.com"
-	github = "https://github.com/akashkumar7902/"
+	email = "mail@yurizal-san.com"
+	github = "https://github.com/yursan9/"
+	twitter = "https://twitter.com/yuri_boya"
 
 
 # Language Configuration
