@@ -11,9 +11,9 @@ Season of KDE is a mentorship program to introduce people to KDE. I came to know
 
 I also did some translations of small applications which included kcharselect, kruler and ktimer, as a pre-task. My work can be found at https://github.com/AkashKumar7902/translations-kde-applications
 
-In my proposal, I chose to translate merkuro and tellico applications to hindi. Tellico and merkuro are one of the most starred projects among kde projects. Tellico is used by thousands of people around the world to manage collections of books, videos, music, etc. While, merkuro provides a simple way to handle emails, calendars and contacts. The project aims to translate all sentences displayed to the user into Hindi.
+In my proposal, I chose to translate Merkuro ([calendar](https://apps.kde.org/merkuro.calendar/), [contact](https://apps.kde.org/merkuro.contact/) and [mail](https://apps.kde.org/merkuro.mail/)) and [Tellico](https://tellico-project.org/) applications to hindi. Tellico and Merkuro are one of the most starred projects among kde projects. Tellico is used by thousands of people around the world to manage collections of books, videos, music, etc. While, Merkuro provides a simple way to handle emails, calendars and contacts. The project aims to translate all sentences displayed to the user into Hindi.
 
-In the first phase of my work, I translated half of **merkuro**. The other half was translated by Asish Kumar.
+In the first phase of my work, I translated half of **Merkuro**. The other half was translated by Asish Kumar.
 
 I used lokalize as a translation tool. Lokalize provides a intutive and simple UI, with awesome features like translation memory. To setup lokalize, I followed this blog by Raghavendra Kamath: https://raghukamath.com/how-to-translate-krita-to-your-own-language. 
 
@@ -28,8 +28,8 @@ The translation work went quite smoothly, I hardly faced any challenges. However
 
 The translations can be found at https://invent.kde.org/akashkumar/sok-translations/-/tree/master/merkuro/messages?ref_type=heads
 
-I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing guidance. I would also like to thank Aakarsh MJ for taking up the work to review merkuro translation.
+I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing guidance. I would also like to thank Aakarsh MJ for taking up the work to review Merkuro translation.
 
-This is all for this blog. I would be posting another blog describing my experience translating tellico. 
+This is all for this blog. I would be posting another blog describing my experience translating Tellico. 
 
 Stay Tuned !  
