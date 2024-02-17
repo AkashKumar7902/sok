@@ -1,6 +1,6 @@
-baseURL = "https://akashkumar7902.github.io/sok-blog/"
+baseURL = "https://akashkumar7902.github.io/sok-blog"
 title = "My Posts"
-theme = "maniss"
+theme = "manis"
 
 pluralizeListTitles = false
 
