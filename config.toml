@@ -29,6 +29,10 @@ pygmentsUseClasses = true
 [taxonomies]
 	tag = "tags"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-BC456TZD2Q'
+
 [params]
 	# If false, use minified CSS (ui.min.css)
 	debugCSS = false
