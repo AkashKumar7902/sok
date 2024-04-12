@@ -1,6 +1,7 @@
 ---
 title: "Merkuro Hindi Translation - SoK 2024"
 date: 2024-02-17T13:05:55+05:30
+draft: false
 ---
 
 This is my first blog about my experience participating in season of KDE 2024.
