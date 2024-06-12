@@ -1,7 +1,7 @@
 ---
 title: "Adding Color to the Log Output of Logging Libraries in Go"
 date: 2024-02-17T21:46:28+05:30
-draft: true
+draft: false
 ---
 Logging is an integral part of software development, providing developers with valuable insights into the behaviour and performance of their applications. In the Go programming language, various logging libraries, such as the standard library's `log` package or third-party options like `logrus`, `zap` and `zerolog`, facilitate the generation of log output. While the primary goal of logging is to convey information, the traditional black-and-white log messages can sometimes make it challenging to quickly discern critical information amidst a sea of logs.
 
